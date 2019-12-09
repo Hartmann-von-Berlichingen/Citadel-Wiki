@@ -308,16 +308,16 @@ Slime's livers work differently than human livers. They get stressed by medicine
 
 ### In a nutshell:
 
-- + More control over metabolic stress
-- + Able to treat chronic/acute failure easier
-- + Able to treat end stage without surgery
-- + Wider healthy stress window (-55% to 15%)
-- - All metabolic stress effects are inverted, toxins, alcohols and multiver reduces it, dialysis, medicines and impurities increase it.
-- - Less total health
-- - No toxin purging
-- - When metabolic stress is below -55%(too toxic) medicines don't process and causes minor brain damage
-- + When below -95%, rejuvenates a failing liver
-- - Slower mitigation (0.05-0.15 instead of 0.05 to 0.25) 
+- More control over metabolic stress
+- Able to treat chronic/acute failure easier
+- Able to treat end stage without surgery
+- Wider healthy stress window (-55% to 15%)
+- All metabolic stress effects are inverted, toxins, alcohols and multiver reduces it, dialysis, medicines and impurities increase it.
+- Less total health
+- No toxin purging
+- When metabolic stress is below -55%(too toxic) medicines don't process and causes minor brain damage
+- When below -95%, rejuvenates a failing liver
+- Slower mitigation (0.05-0.15 instead of 0.05 to 0.25) 
 
 ### Filturatum specific damage methods:
 -	Too much medicine without toxin to balance
